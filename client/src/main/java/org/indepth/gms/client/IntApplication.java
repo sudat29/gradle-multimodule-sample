@@ -8,6 +8,7 @@ import org.indepth.gms.producer.IntProducer;
  */
 public class IntApplication {
   public static void main(String[] args) {
+    System.out.println("Starting client...");
     IntProducer producer = new IntProducer();
     IntConsumer consumer = new IntConsumer();
     consumer.consume(producer.produce());
