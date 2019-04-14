@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-multimodule-sample'
+include 'producer'
+include 'consumer'
+include 'client'
+

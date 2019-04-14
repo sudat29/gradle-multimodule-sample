@@ -1,0 +1,8 @@
+apply plugin: 'application'
+
+mainClassName = 'org.indepth.gms.client.IntApplication'
+
+dependencies {
+  compile project(':producer')
+  compile project(':consumer')
+}
