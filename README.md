@@ -1,2 +1,2 @@
 # gradle-multimodule-sample
-Sample Gradle mmulti-module project.
+Sample Gradle multi-module project.
