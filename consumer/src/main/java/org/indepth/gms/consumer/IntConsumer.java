@@ -6,6 +6,6 @@ package org.indepth.gms.consumer;
 public class IntConsumer implements Consumer<Integer> {
   @Override
   public void consume(Integer i) {
-    System.out.println("Consuming integer: " + i);
+    System.out.println("Consuming integer:" + i);
   }
 }
