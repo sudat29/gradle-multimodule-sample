@@ -4,8 +4,6 @@ apply plugin: 'org.indepth.intellibuild'
 
 intelliBuildSetting {
   master = "origin/master"
-  username = "sudat29"
-  password = "suddata29"
 }
 
 buildscript {
