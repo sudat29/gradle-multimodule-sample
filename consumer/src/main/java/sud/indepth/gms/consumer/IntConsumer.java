@@ -1,4 +1,4 @@
-package org.indepth.gms.consumer;
+package sud.indepth.gms.consumer;
 
 /**
  * Created by sud on 14/4/19.

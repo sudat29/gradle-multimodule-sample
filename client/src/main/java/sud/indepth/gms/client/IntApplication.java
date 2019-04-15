@@ -1,7 +1,7 @@
-package org.indepth.gms.client;
+package sud.indepth.gms.client;
 
-import org.indepth.gms.consumer.IntConsumer;
-import org.indepth.gms.producer.IntProducer;
+import sud.indepth.gms.consumer.IntConsumer;
+import sud.indepth.gms.producer.IntProducer;
 
 /**
  * Created by sud on 14/4/19.
