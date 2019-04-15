@@ -2,6 +2,10 @@ group 'org.indepth'
 version '1.0-SNAPSHOT'
 apply plugin: 'org.indepth.intellibuild'
 
+intelliBuildSetting {
+  master = "origin/master"
+}
+
 buildscript {
   repositories {
     mavenCentral()
