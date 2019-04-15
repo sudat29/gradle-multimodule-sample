@@ -1,6 +1,6 @@
-group 'org.indepth'
+group 'sud.indepth'
 version '1.0-SNAPSHOT'
-apply plugin: 'org.indepth.intellibuild'
+apply plugin: 'sud.indepth.intellibuild'
 
 intelliBuildSetting {
   master = "origin/master"
@@ -12,7 +12,7 @@ buildscript {
     mavenLocal()
   }
   dependencies {
-    classpath 'org.indepth:intelli-build:1.0-SNAPSHOT'
+    classpath 'sud.indepth:intelli-build:1.0-SNAPSHOT'
   }
 }
 
