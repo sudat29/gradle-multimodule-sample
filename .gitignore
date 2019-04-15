@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+build/
+client/build/
+consumer/build/
+producer/build/
